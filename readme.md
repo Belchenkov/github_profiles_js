@@ -2,7 +2,8 @@
 
 > GitHub Profiles on Vanilla JS
 
-### [Demo]()
+### [Demo](http://github-profile-js-ab.surge.sh)
+[![IMAGE ALT TEXT HERE](./uploads/screen.png)](https://skr.sh/v65UoVdnq82?a)
 
 ### Get started
 
